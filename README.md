@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronak Kumar Singh</h1>
 <h3 align="center">I'm Beginner in This World , Not for long time</h3>
-<img src=“https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronak-kumar-sing&label=Profile%20views&color=0e75b6&style=flat" alt="ronak-kumar-sing" /> </p>
 
