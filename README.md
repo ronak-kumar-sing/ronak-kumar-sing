@@ -16,6 +16,7 @@ I build full-stack web and mobile applications that solve real problems. Current
 - 🏗️ **3 production platforms** deployed on Vercel with TypeScript, MongoDB, and serverless backends
 - 💻 **200+ DSA problems** solved across LeetCode and GeeksforGeeks
 - 🛠️ **5 certifications** in Cloud Computing, Generative AI, and Computational Theory
+- 🌟 **Open Source Contributor** — Firefox Spoof Extension (2⭐, 1 fork) and Refine prompt tool (1⭐)
 
 **What I'm currently building:**
 - Adding AI-powered features to Student Nest using OpenAI API
@@ -70,12 +71,38 @@ A cross-platform mobile application for students and professionals to maximize p
 
 A Flutter application with income/expense tracking, calendar management, water intake monitoring, analytics, and AI agent features. Syncs data across macOS and Android via Hive + Firebase.
 
+- **Cross-platform:** macOS and Android support with offline-first data sync
+- **AI Features:** Personalized wellness recommendations and financial insights
+- **Analytics:** Comprehensive dashboard with spending patterns and health metrics
+
 ---
 
 ### 🎯 [BGMI Sensitivity Tool](https://github.com/ronak-kumar-sing/resQmesh) — AI-Assisted Gaming Optimizer
 > **Tech:** JavaScript · Algorithmic Logic · Responsive UI
 
 An AI-assisted gaming sensitivity optimization website that attracted **500+ active users** from the gaming community through organic growth and iterative improvements based on user feedback.
+
+---
+
+### 🔒 [Firefox Spoof Extension](https://github.com/ronak-kumar-sing/firefox-spoof-extension) — Browser Privacy Tool
+> **Tech:** JavaScript · Browser Extension APIs · Manifest V3
+
+A Firefox browser extension for privacy and spoofing functionality that earned **2 stars and 1 fork** from the open-source community.
+
+- **Privacy Controls:** Content scripts and background service workers for browser behavior modification
+- **Cross-browser:** Manifest V3 compliance and cross-browser compatibility testing
+- **Community:** Earned community recognition with organic star growth
+
+---
+
+### ✨ [Refine](https://github.com/ronak-kumar-sing/refine) — AI Prompt Enhancement Tool
+> **Tech:** JavaScript · NLP Concepts · Algorithmic Text Analysis
+
+A JavaScript-based prompt refinement tool that helps users optimize their AI prompts for better outputs, earning **1 star** from the developer community.
+
+- **Text Analysis:** Algorithmic suggestion generation for prompt clarity and structure
+- **LLM Optimization:** Improves prompt effectiveness for ChatGPT and other LLMs
+- **Developer Tool:** Focused on UX for developer productivity
 
 ---
 
@@ -88,19 +115,19 @@ An AI-assisted gaming sensitivity optimization website that attracted **500+ act
 `React.js` `Next.js 15` `React Native` `Expo` `HTML5` `CSS3` `Tailwind CSS` `Shadcn UI` `Radix UI` `Framer Motion` `Three.js` `GSAP` `Flutter`
 
 **Backend & APIs:**
-`Node.js` `Express.js` `REST API` `JWT` `OAuth 2.0` `bcrypt` `Rate Limiting` `Zod Validation` `Socket.io`
+`Node.js` `Express.js` `NestJS` `REST API` `JWT` `OAuth 2.0` `bcrypt` `Rate Limiting` `Zod Validation` `Socket.io` `WebSockets`
 
 **Databases:**
-`MongoDB` `Mongoose` `MySQL` `Firebase` `Hive` `Google Sheets API`
+`MongoDB` `MongoDB Atlas` `Mongoose` `MySQL` `Firebase` `Hive` `Google Sheets API`
 
 **DevOps & Tools:**
-`Git` `GitHub` `Vercel` `Postman` `VS Code` `ESLint` `Prettier` `Cloudinary` `SendGrid` `Twilio` `Google APIs`
+`Git` `GitHub` `Vercel` `Postman` `VS Code` `ESLint` `Prettier` `Cloudinary` `SendGrid` `Twilio` `Google APIs` `Docker (Basic)`
 
 **Concepts:**
-`Data Structures` `Algorithms` `OOP` `Agile` `Scrum` `RBAC` `System Design (Basic)` `API Design` `Performance Optimization` `SEO`
+`Data Structures` `Algorithms` `OOP` `Agile` `Scrum` `RBAC` `System Design (Basic)` `API Design` `Performance Optimization` `SEO` `WebSockets`
 
 **Learning:**
-`Docker` `PostgreSQL` `Redis` `Jest` `CI/CD` `AWS` `GraphQL` `WebSockets` `System Design (Advanced)`
+`Docker` `PostgreSQL` `Redis` `Jest` `CI/CD` `AWS` `GraphQL` `System Design (Advanced)`
 
 ---
 
@@ -125,7 +152,8 @@ An AI-assisted gaming sensitivity optimization website that attracted **500+ act
 - 🧠 **200+ DSA Problems** — Solved across LeetCode and GeeksforGeeks (41 on GFG)
 - 🚀 **500+ Users** — Organic user growth on BGMI sensitivity optimization tool
 - 📜 **5 Certifications** — NPTEL Cloud Computing, Udemy Gen AI & Prompt Engineering, Infosys Computational Theory
-- 🌱 **Open Source Contributor** — First contributions to popular repositories (learning and growing)
+- 🌟 **Open Source** — Firefox Spoof Extension (2⭐, 1 fork) and Refine (1⭐) earning community recognition
+- 🌱 **Contributor** — First contributions to popular repositories (learning and growing)
 
 ---
 
