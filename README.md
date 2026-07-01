@@ -1,33 +1,189 @@
-<h1 align="center">Hi 👋, I'm Ronak Kumar Singh</h1>
-<h3 align="center">I'm Beginner in This World , Not for long time</h3>
+# Ronak Kumar Singh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronak-kumar-sing&label=Profile%20views&color=0e75b6&style=flat" alt="ronak-kumar-sing" /> </p>
+**Full Stack Developer** | Next.js · TypeScript · React Native · MongoDB
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronak-kumar-sing" alt="ronak-kumar-sing" /></a> </p>
+📍 Punjab, India | 🎓 B.Tech CSE @ LPU (Expected 2027) | 📧 ronakkumar20062006@gmail.com
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/ronakkumar25401" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ronakkumar25401?logo=twitter&style=for-the-badge" alt="https://twitter.com/ronakkumar25401" /></a> </p>
+---
 
-- 🌱 I’m currently learning **React JS**
+## 🚀 About Me
 
-- 💬 Ask me about **React and C++**
+I build full-stack web and mobile applications that solve real problems. Currently a second-year Computer Science student at Lovely Professional University with a CGPA of 7.51, I've shipped production-grade platforms with modern architectures, third-party integrations, and cross-platform mobile experiences.
 
-- 📫 How to reach me **ronakkumar20062006@gmail.com**
+**What I've done so far:**
+- 🏆 Runner-up at **IIITM Gwalior National Hackathon** (1000+ teams) — built a student housing platform in 48 hours
+- 📱 2-month **React Native internship** at RUNFLY — shipped 2 cross-platform mobile apps with Expo
+- 🏗️ **3 production platforms** deployed on Vercel with TypeScript, MongoDB, and serverless backends
+- 💻 **200+ DSA problems** solved across LeetCode and GeeksforGeeks
+- 🛠️ **5 certifications** in Cloud Computing, Generative AI, and Computational Theory
 
-- ⚡ Fun fact **I think I Conquer it**
+**What I'm currently building:**
+- Adding AI-powered features to Student Nest using OpenAI API
+- Contributing to open source (Next.js ecosystem, shadcn/ui)
+- Learning Docker, CI/CD, and system design fundamentals
+- Solving 3 LeetCode problems daily to reach 350+ by end of year
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/ronakkumar25401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ronakkumar25401" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ronak-kumar-a2b721285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ronak-kumar-a2b721285/" height="30" width="40" /></a>
-<a href="https://instagram.com/.ronak_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".ronak_kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ronak_kumar_singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ronak_kumar_singh/" height="30" width="40" /></a>
+---
+
+## 🏗️ Featured Projects
+
+### 🏠 [Student Nest](https://github.com/ronak-kumar-sing/student-nest-new) — Student Housing Platform
+> **Tech:** Next.js 15 · TypeScript · MongoDB · Mongoose · JWT · Twilio · SendGrid · Cloudinary · Google Meet API
+
+A full-stack student housing platform that connects students directly with verified room owners — no broker in between. Built from scratch in a 48-hour hackathon sprint and secured **Runner-up at IIITM Gwalior (1000+ teams)**.
+
+- **Authentication:** JWT + bcrypt + OTP dual-verification (SMS + Email) with rate limiting
+- **Access Control:** Role-based dashboards (Students, Owners, Admins) with identity verification
+- **Integrations:** Twilio (SMS), SendGrid (Email), Cloudinary (Media), Google Meet API (Virtual Tours)
+- **Performance:** 35% bundle reduction, 40% faster builds via code optimization and lazy loading
+- **Live:** [student-nest-infotsav.vercel.app](https://student-nest-infotsav.vercel.app/)
+
+---
+
+### 🎨 [MakeYou.Online](https://github.com/ronak-kumar-sing/makeyou) — Freelance Showcase Platform
+> **Tech:** Next.js 16 · TypeScript · Three.js · GSAP · MongoDB · Google Sheets API · Vercel
+
+A visually immersive freelance showcase website designed to attract clients through interactive 3D animations and a streamlined lead capture system.
+
+- **Visual Design:** Three.js 3D scenes + GSAP scroll animations for memorable brand experience
+- **Backend:** Serverless API routes with Zod validation, MongoDB persistence, SendGrid email automation
+- **Business Logic:** Google Sheets API integration for zero-cost CRM and lead tracking
+- **Admin Dashboard:** Real-time lead monitoring and contact management
+- **Live:** [makeyou.vercel.app](https://makeyou.vercel.app)
+
+---
+
+### 📱 [Make-it](https://github.com/ronak-kumar-sing/Make-it-app) — Productivity & Study Companion
+> **Tech:** React Native · Expo · TypeScript · Firebase · Hive
+
+A cross-platform mobile application for students and professionals to maximize productivity, track academic progress, and manage daily tasks.
+
+- Built during **2-month React Native internship at RUNFLY**
+- Cross-platform (iOS + Android) with Expo deployment
+- Integrated task management, study habit tracking, and progress analytics
+- **Live:** Built for real-world use cases with platform-specific optimizations
+
+---
+
+### 📊 [LifeSync Dashboard](https://github.com/ronak-kumar-sing/LifeSync-Dashboard) — Personal Finance & Wellness Tracker
+> **Tech:** Flutter · Dart · Firebase · Hive
+
+A Flutter application with income/expense tracking, calendar management, water intake monitoring, analytics, and AI agent features. Syncs data across macOS and Android via Hive + Firebase.
+
+---
+
+### 🎯 [BGMI Sensitivity Tool](https://github.com/ronak-kumar-sing/resQmesh) — AI-Assisted Gaming Optimizer
+> **Tech:** JavaScript · Algorithmic Logic · Responsive UI
+
+An AI-assisted gaming sensitivity optimization website that attracted **500+ active users** from the gaming community through organic growth and iterative improvements based on user feedback.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+`JavaScript` `TypeScript` `C++` `Java` `Python (Basic)` `Dart`
+
+**Frontend & Mobile:**
+`React.js` `Next.js 15` `React Native` `Expo` `HTML5` `CSS3` `Tailwind CSS` `Shadcn UI` `Radix UI` `Framer Motion` `Three.js` `GSAP` `Flutter`
+
+**Backend & APIs:**
+`Node.js` `Express.js` `REST API` `JWT` `OAuth 2.0` `bcrypt` `Rate Limiting` `Zod Validation` `Socket.io`
+
+**Databases:**
+`MongoDB` `Mongoose` `MySQL` `Firebase` `Hive` `Google Sheets API`
+
+**DevOps & Tools:**
+`Git` `GitHub` `Vercel` `Postman` `VS Code` `ESLint` `Prettier` `Cloudinary` `SendGrid` `Twilio` `Google APIs`
+
+**Concepts:**
+`Data Structures` `Algorithms` `OOP` `Agile` `Scrum` `RBAC` `System Design (Basic)` `API Design` `Performance Optimization` `SEO`
+
+**Learning:**
+`Docker` `PostgreSQL` `Redis` `Jest` `CI/CD` `AWS` `GraphQL` `WebSockets` `System Design (Advanced)`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronak-kumar-sing&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronak-kumar-sing&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronak-kumar-sing&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronak-kumar-sing&show_icons=true&locale=en&layout=compact" alt="ronak-kumar-sing" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronak-kumar-sing&show_icons=true&locale=en" alt="ronak-kumar-sing" /></p>
+## 🏆 Achievements & Highlights
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronak-kumar-sing&" alt="ronak-kumar-sing" /></p>
+- 🥈 **Runner-up** — IIITM Gwalior National Hackathon (1000+ teams nationwide)
+- 👨‍💻 **Team Lead** — Led 4-member technical team to build Student Nest in 48 hours
+- 📱 **React Native Intern** — 2 months at RUNFLY, shipped 2 cross-platform apps
+- 🧠 **200+ DSA Problems** — Solved across LeetCode and GeeksforGeeks (41 on GFG)
+- 🚀 **500+ Users** — Organic user growth on BGMI sensitivity optimization tool
+- 📜 **5 Certifications** — NPTEL Cloud Computing, Udemy Gen AI & Prompt Engineering, Infosys Computational Theory
+- 🌱 **Open Source Contributor** — First contributions to popular repositories (learning and growing)
+
+---
+
+## 📜 Certifications
+
+| Certification | Provider | Date |
+|-------------|----------|------|
+| Cloud Computing | NPTEL (IIT Kharagpur) | Nov 2025 |
+| Master Generative AI & Gen AI Tools | Udemy | Aug 2025 |
+| Build Gen AI Apps with No-Code Tools | Udemy | Sept 2024 |
+| Prompt Engineering: ChatGPT, Gen AI & LLM | Udemy | Oct 2024 |
+| Computational Theory | Infosys | Aug 2025 |
+
+---
+
+## 🎯 Current Focus
+
+```
+🚀 Building: AI-powered features for Student Nest (OpenAI API integration)
+📚 Learning: Docker, CI/CD, System Design fundamentals
+💻 Coding: 3 LeetCode problems daily (target: 350+ by Dec 2026)
+🌍 Contributing: Open source in Next.js ecosystem
+📝 Writing: Technical blog posts on Medium/Hashnode
+🎓 Studying: B.Tech CSE @ LPU (CGPA 7.51)
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ronak-km" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/Ronak_Kumar_singh/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+<a href="https://twitter.com/ronakkumar25401" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://makeyou.vercel.app" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:ronakkumar20062006@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
+
+**📧 Email:** ronakkumar20062006@gmail.com  
+**📱 Phone:** +91-7009097789  
+**📍 Location:** Punjab, India
+
+---
+
+## 💡 Fun Fact
+
+> I think I can conquer it — and I'm building the proof, one commit at a time.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ronak-kumar-sing&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
