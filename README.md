@@ -80,7 +80,7 @@
 
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=ronak-kumar-sing&theme=algolia&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ronak-kumar-sing&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <br>
@@ -93,14 +93,14 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ronak-kumar-sing&show_icons=true&theme=algolia&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronak-kumar-sing&layout=compact&theme=algolia&hide_border=true&langs_count=10&hide=html,css&custom_title=Most%20Used%20Languages" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronak-kumar-sing&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronak-kumar-sing&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=html,css&custom_title=Most%20Used%20Languages" alt="Top Languages" height="180" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronak-kumar-sing&theme=algolia&hide_border=true&fire=FF6B6B&currStreakNum=00D4FF&currStreakLabel=00D4FF&sideNums=7F7FD5&sideLabels=7F7FD5&dates=7F7FD5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronak-kumar-sing&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -119,7 +119,7 @@
 
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
-  
+
   <h4>💻 Languages</h4>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -129,7 +129,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   </p>
-  
+
   <h4>🎨 Frontend & Mobile</h4>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -142,7 +142,7 @@
     <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
     <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   </p>
-  
+
   <h4>⚙️ Backend & APIs</h4>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -153,7 +153,7 @@
     <img src="https://img.shields.io/badge/OAuth_2.0-3B82F6?style=for-the-badge&logo=auth0&logoColor=white" />
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   </p>
-  
+
   <h4>🗄️ Databases</h4>
   <p>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -163,7 +163,7 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   </p>
-  
+
   <h4>🚀 DevOps & Tools</h4>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -233,9 +233,7 @@
 <br>
 
 <div align="center">
-  <h3>📈 Profile Stats</h3>
-  <img src="https://profile-counter.glitch.me/ronak-kumar-sing/count.svg" alt="Profile Views" />
-  <br>
+  <h3>📈 Profile Views</h3>
   <img src="https://komarev.com/ghpvc/?username=ronak-kumar-sing&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
@@ -246,7 +244,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=algolia&hideBorder" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
 </div>
 
 <div align="center">
